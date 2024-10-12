@@ -3,7 +3,7 @@ papers:
   - title: "Online Machine Teaching under Learner's Uncertainty: Gradient Descent Learners of a Quadratic Loss"
     authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Mattieu R. Bloch"
     venue: "Under Review at SIAM Journal"
-    paper_pdf: "/assets/publications/2025_ICASSP/paper.pdf"
+    paper_pdf: "/assets/publications/2025_SIAM/paper.pdf"
     code: https://github.com/BelenMU/SMTL
     selected: y
 
@@ -24,7 +24,7 @@ papers:
     authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
     venue: "ICML '24 Workshop on Models of Human Feedback for AI Alignment"
     paper_pdf: "/assets/publications/2024_ICLR_Workshop/paper.pdf"
-    paper_pdf: "/assets/publications/2024_ICLR_Workshop/poster.pdf"
+    poster: "/assets/publications/2024_ICLR_Workshop/poster.pdf"
     selected: y
 
   - title: "Temperature-Dependent I/Q Imbalance Compensation in Ultra-Wideband Millimeter-Wave Multi-Gigabit Transmitters"
