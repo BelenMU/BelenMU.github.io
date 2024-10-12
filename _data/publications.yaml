@@ -15,7 +15,7 @@ papers:
 
   - title: "Enhancing Human-in-the-Loop Learning for Binary Sentiment Word Classification"
     authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Mattieu R. Bloch"
-    venue: "CDC'24: Conference on Decision and Control. Dec. 2024."
+    venue: "CDC '24: Conference on Decision and Control. Dec. 2024."
     paper_pdf: "/assets/publications/2024_CDC/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
     selected: y
