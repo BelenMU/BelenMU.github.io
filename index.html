@@ -168,81 +168,6 @@ title: Home
   </div>
 -->
 
-<!-- ========== PROJECTS ========== 
-<div class="docs-section" id="projects">
-  <h4>Projects</h4>
-
-  <ul class="tab-nav">
-    <li><div class="button active" data-ref="#projects-selected">Selected</div></li>
-    <li><div class="button" data-ref="#projects-all">All</div></li>
-  </ul>
-
-  <div class="tab-content">
-    <div class="tab-pane active" id="projects-selected">
-      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
-      {% for project in selected_projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-
-    <div class="tab-pane" id="projects-all">
-      {% for project in site.data.projects.projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-
-</div>
--->
-
   <!-- ========== LEADERSHIP ========== -->
 <div class="docs-section" id="leadership">
   <h4>Leadership</h4>
@@ -251,18 +176,18 @@ title: Home
     <h5>Mentoring</h5>
     I have been fortunate to supervise and collaborate with students at Georgia Tech on semester-long projects
     <ul>
-      <li><b>Yoonsan Lee</b> – Focused on active learning techniques. 
-        <a href="http://www.linkedin.com/in/yoonsanglee-18654a221" target="_blank">LinkedIn</a></li>
-      <li>>Zhihao Qin</b> – Worked on experiment design methodologies. 
-        <a href="https://www.linkedin.com/in/zhihao-qin-422a5723b" target="_blank">LinkedIn</a></li>
+      <li><a href="http://www.linkedin.com/in/yoonsanglee-18654a221" target="_blank"><b>Yoonsan Lee</b></a> – Focused on active learning techniques. 
+        </li>
+      <li><a href="https://www.linkedin.com/in/zhihao-qin-422a5723b" target="_blank"><b>Zhihao Qin</b></a> – Focused on experiment design. 
+        </li>
     </ul>
   </div>
 
   <div class="leadership-position">
     <h5>Graduate Chair, Women in Electrical and Computer Engineering (WECE)</h5>
-    Since founding the Graduate Chair role in July 2021, I have been leading initiatives to encourage a strong community among female graduate students in ECE at Georgia Tech. Our primary focus is on mentoring and networking, fostering professional and personal growth. 
+    Since founding the Graduate Chair role in 2021, I have been leading initiatives to encourage a strong community among female graduate students in ECE at Georgia Tech. Our primary focus is on mentoring and networking, fostering professional and personal growth. 
   </div>
-
+</div>
 <!-- ========== RESUME ========== -->
 <div class="docs-section" id="resume">
   <h4>Vitæ</h4>
