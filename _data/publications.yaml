@@ -9,8 +9,8 @@ papers:
 
   - title: "MANGO: Disentangled Image Transformation Manifolds with Grouped Operators"
     authors: "Brighton Ancelin<sup>‡</sup>, Yenho Chen<sup>‡</sup>, Peimeng Guan<sup>‡</sup>, Chiraag Kaushik<sup>‡</sup>, <b>Belen Martin-Urcelay</b><sup>‡</sup>, Alex Saad-Falcon<sup>‡</sup>, Nakul Singh<sup>‡</sup>"
-    venue: "Under Review at ICASSP 2025"
-    paper_pdf: "/assets/publications/2025_ICASSP/paper.pdf"
+    venue: "Under Review at SampTA 2025"
+    paper_pdf: "/assets/publications/2025_SAMPTA/paper.pdf"
     selected: n
 
   - title: "Enhancing Human-in-the-Loop Learning for Binary Sentiment Word Classification"
