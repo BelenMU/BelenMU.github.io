@@ -18,6 +18,7 @@ papers:
     venue: "CDC '24: Conference on Decision and Control. Dec. 2024."
     paper_pdf: "/assets/publications/2024_CDC/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
+    slides: "/assets/publications/2024_CDC/slides.pdf"
     selected: y
 
   - title: "Reinforcement Learning from Human Text Feedback: Learning a Reward Model from Human Text Input."
