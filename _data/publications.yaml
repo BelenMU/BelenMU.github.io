@@ -8,7 +8,7 @@ papers:
     selected: y
 
   - title: "MANGO: Disentangled Image Transformation Manifolds with Grouped Operators"
-    authors: "Brighton Ancelin<sup>‡</sup>, Yenho Chen<sup>‡</sup>, Peimeng Guan<sup>‡</sup>, Chiraag Kaushik<sup>‡</sup>, <b>Belen Martin-Urcelay</b><sup>‡</sup>, Alex Saad-Falcon<sup>‡</sup>, Nakul Singh<sup>‡</sup>"
+    authors: "Brighton Ancelin<sup>‡</sup>, Yenho Chen<sup>‡</sup>, Alex Saad-Falcon<sup>‡</sup>, Peimeng Guan<sup>‡</sup>, Chiraag Kaushik<sup>‡</sup>, Nakul Singh<sup>‡</sup>, <b>Belen Martin-Urcelay</b><sup>‡</sup>"
     venue: "Under Review at SampTA 2025"
     paper_pdf: "/assets/publications/2025_SAMPTA/paper.pdf"
     selected: n
