@@ -66,6 +66,10 @@ title: Home
               <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
             {% endif %}
 
+            {% if paper.supplement_pdf %}
+              <a class="button" href="{{ paper.supplement_pdf | prepend: site.baseurl }}" target="_blank">Supplement</a>
+            {% endif %}
+
             {% if paper.video %}
               <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
             {% endif %}
