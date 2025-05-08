@@ -2,14 +2,14 @@ papers:
 
   - title: "Online Machine Teaching under Learner's Uncertainty: Gradient Descent Learners of a Quadratic Loss"
     authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Mattieu R. Bloch"
-    venue: "Under Review at SIAM Journal"
+    venue: "Accepted at SIAM Journal on Mathematics of Data Science (SIMODS). 2025."
     paper_pdf: "/assets/publications/2025_SIAM/paper.pdf"
     code: https://github.com/BelenMU/SMTL
     selected: y
 
   - title: "MANGO: Disentangled Image Transformation Manifolds with Grouped Operators"
     authors: "Brighton Ancelin<sup>‡</sup>, Yenho Chen<sup>‡</sup>, Alex Saad-Falcon<sup>‡</sup>, Peimeng Guan<sup>‡</sup>, Chiraag Kaushik<sup>‡</sup>, Nakul Singh<sup>‡</sup>, <b>Belen Martin-Urcelay</b><sup>‡</sup>"
-    venue: "Under Review at SampTA 2025"
+    venue: "[Oral] SampTA 2025: Sampling Theory and Applications. July 2025."
     paper_pdf: "/assets/publications/2025_SAMPTA/paper.pdf"
     selected: n
 
