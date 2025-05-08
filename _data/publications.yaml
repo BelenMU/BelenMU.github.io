@@ -2,14 +2,14 @@ papers:
 
   - title: "Online Machine Teaching under Learner's Uncertainty: Gradient Descent Learners of a Quadratic Loss"
     authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Mattieu R. Bloch"
-    venue: "Accepted at SIAM Journal on Mathematics of Data Science (SIMODS). 2025."
+    venue: "SIMODS '25: Accepted at SIAM Journal on Mathematics of Data Science. 2025."
     paper_pdf: "/assets/publications/2025_SIAM/paper.pdf"
     code: https://github.com/BelenMU/SMTL
     selected: y
 
   - title: "MANGO: Disentangled Image Transformation Manifolds with Grouped Operators"
     authors: "Brighton Ancelin<sup>‡</sup>, Yenho Chen<sup>‡</sup>, Alex Saad-Falcon<sup>‡</sup>, Peimeng Guan<sup>‡</sup>, Chiraag Kaushik<sup>‡</sup>, Nakul Singh<sup>‡</sup>, <b>Belen Martin-Urcelay</b><sup>‡</sup>"
-    venue: "[Oral] SampTA 2025: Sampling Theory and Applications. July 2025."
+    venue: "SampTA '25 [Oral]: Sampling Theory and Applications. July 2025."
     paper_pdf: "/assets/publications/2025_SAMPTA/paper.pdf"
     selected: n
 
@@ -23,13 +23,13 @@ papers:
 
   - title: "Reinforcement Learning from Human Text Feedback: Learning a Reward Model from Human Text Input."
     authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
-    venue: "ICML '24 Workshop on Models of Human Feedback for AI Alignment"
+    venue: "ICML '24 Workshop on Models of Human Feedback for AI Alignment. July 2024"
     paper_pdf: "/assets/publications/2024_ICLR_Workshop/paper.pdf"
     poster: "/assets/publications/2024_ICLR_Workshop/poster.pdf"
     selected: y
 
   - title: "Temperature-Dependent I/Q Imbalance Compensation in Ultra-Wideband Millimeter-Wave Multi-Gigabit Transmitters"
     authors: "Ainhoa Rezola, Juan F. Sevillan, David del Río, <b>Belen Martin-Urcelay</b>, Iñaki Gurutzeaga, Igone Vélez, Roc Berenguer"
-    venue: "IEEE Transactions on Microwave Theory and Techniques 2020"
+    venue: "IEEE Transactions on Microwave Theory and Techniques. Jan. 2020"
     paper_pdf: "/assets/publications/2020_IEEE/paper.pdf"
     selected: n
