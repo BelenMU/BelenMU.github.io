@@ -1,7 +1,7 @@
 papers:
 
   - title: "Online Machine Teaching under Learner's Uncertainty: Gradient Descent Learners of a Quadratic Loss"
-    authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Mattieu R. Bloch"
+    authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
     venue: "SIMODS '25: Accepted at SIAM Journal on Mathematics of Data Science. 2025."
     paper_pdf: "/assets/publications/2025_SIAM/paper.pdf"
     code: https://github.com/BelenMU/SMTL
@@ -14,7 +14,7 @@ papers:
     selected: n
 
   - title: "Enhancing Human-in-the-Loop Learning for Binary Sentiment Word Classification"
-    authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Mattieu R. Bloch"
+    authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
     venue: "CDC '24: Conference on Decision and Control. Dec. 2024."
     paper_pdf: "/assets/publications/2024_CDC/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
