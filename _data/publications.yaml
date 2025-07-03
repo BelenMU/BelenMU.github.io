@@ -2,9 +2,9 @@ papers:
 
   - title: "Online Machine Teaching under Learner's Uncertainty: Gradient Descent Learners of a Quadratic Loss"
     authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
-    venue: "SIMODS '25: Accepted at SIAM Journal on Mathematics of Data Science. 2025."
-    paper_pdf: "/assets/publications/2025_SIAM/paper.pdf"
-    code: https://github.com/BelenMU/SMTL
+    venue: "SIMODS '25: SIAM Journal on Mathematics of Data Science. June 2025."
+    paper_pdf: "https://epubs.siam.org/eprint/MT9BW9S4MWHWVVBQS6MD/full"
+    code: "https://github.com/BelenMU/SMTL"
     selected: y
 
   - title: "MANGO: Disentangled Image Transformation Manifolds with Grouped Operators"
