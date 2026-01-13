@@ -38,4 +38,5 @@ papers:
     authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
     venue: "TMLR '26 : Accepted with minor revisions at Transactions on Machine Learning Research. January 2026"
     paper_pdf: "/assets/publications/2026_TMLR/paper.pdf"
+    code: "https://github.com/BelenMU/WordsToRewards"
     selected: y
