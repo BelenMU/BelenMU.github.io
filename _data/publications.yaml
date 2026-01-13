@@ -1,5 +1,12 @@
 papers:
 
+  - title: "From Words To Rewards: Leveraging Natural Language For Reinforcement Learning."
+    authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
+    venue: "TMLR '26 : Accepted with minor revisions at Transactions on Machine Learning Research. January 2026"
+    paper_pdf: "/assets/publications/2026_TMLR/paper.pdf"
+    code: "https://github.com/BelenMU/WordsToRewards"
+    selected: y
+
   - title: "Online Machine Teaching under Learner's Uncertainty: Gradient Descent Learners of a Quadratic Loss"
     authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
     venue: "SIMODS '25: SIAM Journal on Mathematics of Data Science. June 2025."
@@ -33,10 +40,3 @@ papers:
     venue: "IEEE Transactions on Microwave Theory and Techniques. Jan. 2020"
     paper_pdf: "/assets/publications/2020_IEEE/paper.pdf"
     selected: n
-
-  - title: "From Words To Rewards: Leveraging Natural Language For Reinforcement Learning."
-    authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
-    venue: "TMLR '26 : Accepted with minor revisions at Transactions on Machine Learning Research. January 2026"
-    paper_pdf: "/assets/publications/2026_TMLR/paper.pdf"
-    code: "https://github.com/BelenMU/WordsToRewards"
-    selected: y
