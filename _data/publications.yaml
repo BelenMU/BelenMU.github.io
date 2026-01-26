@@ -18,6 +18,7 @@ papers:
     authors: "Brighton Ancelin<sup>‡</sup>, Yenho Chen<sup>‡</sup>, Alex Saad-Falcon<sup>‡</sup>, Peimeng Guan<sup>‡</sup>, Chiraag Kaushik<sup>‡</sup>, Nakul Singh<sup>‡</sup>, <b>Belen Martin-Urcelay</b><sup>‡</sup>"
     venue: "SampTA '25 [Oral]: Sampling Theory and Applications. July 2025."
     paper_pdf: "/assets/publications/2025_SAMPTA/paper.pdf"
+    slides: "/assets/publications/2025_SAMPTA/slides.pdf"
     selected: n
 
   - title: "Enhancing Human-in-the-Loop Learning for Binary Sentiment Word Classification"
