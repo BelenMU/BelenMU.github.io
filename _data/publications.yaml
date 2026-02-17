@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Beyond Labels: Information-Efficient Human-in-the-Loop Learning using Ranking and Selection Queries"
+    authors: "<b>Belen Martin-Urcelay</b>, Yoonsang Lee, Matthieu R. Bloch, Christopher J. Rozell"
+    venue: "Under review"
+    paper_pdf: "/assets/publications/2026_UnderReview/paper.pdf"
+    code: "https://github.com/BelenMU/HiTL-SentimentClassify"
+    selected: y
+
   - title: "From Words To Rewards: Leveraging Natural Language For Reinforcement Learning."
     authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
     venue: "TMLR '26 : Transactions on Machine Learning Research. January 2026"
@@ -27,7 +34,7 @@ papers:
     paper_pdf: "/assets/publications/2024_CDC/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
     slides: "/assets/publications/2024_CDC/slides.pdf"
-    selected: y
+    selected: n
 
   - title: "Reinforcement Learning from Human Text Feedback: Learning a Reward Model from Human Text Input."
     authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
