@@ -2,7 +2,7 @@ papers:
 
   - title: "Beyond Labels: Information-Efficient Human-in-the-Loop Learning using Ranking and Selection Queries"
     authors: "<b>Belen Martin-Urcelay</b>, Yoonsang Lee, Matthieu R. Bloch, Christopher J. Rozell"
-    venue: "Under review. February 2026."
+    venue: "Under review. Submitted February 2026."
     paper_pdf: "/assets/publications/2026_UnderReview/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
     selected: y
