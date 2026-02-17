@@ -2,14 +2,14 @@ papers:
 
   - title: "Beyond Labels: Information-Efficient Human-in-the-Loop Learning using Ranking and Selection Queries"
     authors: "<b>Belen Martin-Urcelay</b>, Yoonsang Lee, Matthieu R. Bloch, Christopher J. Rozell"
-    venue: "Under review"
+    venue: "Under review. February 2026."
     paper_pdf: "/assets/publications/2026_UnderReview/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
     selected: y
 
   - title: "From Words To Rewards: Leveraging Natural Language For Reinforcement Learning."
     authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
-    venue: "TMLR '26 : Transactions on Machine Learning Research. January 2026"
+    venue: "TMLR '26 : Transactions on Machine Learning Research. January 2026."
     paper_pdf: "/assets/publications/2026_TMLR/paper.pdf"
     code: "https://github.com/BelenMU/WordsToRewards"
     selected: y
@@ -30,7 +30,7 @@ papers:
 
   - title: "Enhancing Human-in-the-Loop Learning for Binary Sentiment Word Classification"
     authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
-    venue: "CDC '24: Conference on Decision and Control. Dec. 2024."
+    venue: "CDC '24: Conference on Decision and Control. December 2024."
     paper_pdf: "/assets/publications/2024_CDC/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
     slides: "/assets/publications/2024_CDC/slides.pdf"
@@ -38,13 +38,13 @@ papers:
 
   - title: "Reinforcement Learning from Human Text Feedback: Learning a Reward Model from Human Text Input."
     authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
-    venue: "ICML '24 Workshop on Models of Human Feedback for AI Alignment. July 2024"
+    venue: "ICML '24 Workshop on Models of Human Feedback for AI Alignment. July 2024."
     paper_pdf: "/assets/publications/2024_ICLR_Workshop/paper.pdf"
     poster: "/assets/publications/2024_ICLR_Workshop/poster.pdf"
     selected: n
 
   - title: "Temperature-Dependent I/Q Imbalance Compensation in Ultra-Wideband Millimeter-Wave Multi-Gigabit Transmitters"
     authors: "Ainhoa Rezola, Juan F. Sevillan, David del Río, <b>Belen Martin-Urcelay</b>, Iñaki Gurutzeaga, Igone Vélez, Roc Berenguer"
-    venue: "IEEE Transactions on Microwave Theory and Techniques. Jan. 2020"
+    venue: "IEEE Transactions on Microwave Theory and Techniques. January 2020."
     paper_pdf: "/assets/publications/2020_IEEE/paper.pdf"
     selected: n
