@@ -1,35 +1,35 @@
 papers:
 
   - title: "Beyond Labels: Information-Efficient Human-in-the-Loop Learning using Ranking and Selection Queries"
-    authors: "<b>Belen Martin-Urcelay</b>, Yoonsang Lee, Matthieu R. Bloch, Christopher J. Rozell"
+    authors: "<b>Belén Martín-Urcelay</b>, Yoonsang Lee, Matthieu R. Bloch, Christopher J. Rozell"
     venue: "Under review. Submitted February 2026."
     paper_pdf: "/assets/publications/2026_UnderReview/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
     selected: y
 
   - title: "From Words To Rewards: Leveraging Natural Language For Reinforcement Learning."
-    authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
+    authors: "<b>Belén Martín-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
     venue: "TMLR '26 : Transactions on Machine Learning Research. January 2026."
     paper_pdf: "/assets/publications/2026_TMLR/paper.pdf"
     code: "https://github.com/BelenMU/WordsToRewards"
     selected: y
 
   - title: "MANGO: Disentangled Image Transformation Manifolds with Grouped Operators"
-    authors: "Brighton Ancelin<sup>‡</sup>, Yenho Chen<sup>‡</sup>, Alex Saad-Falcon<sup>‡</sup>, Peimeng Guan<sup>‡</sup>, Chiraag Kaushik<sup>‡</sup>, Nakul Singh<sup>‡</sup>, <b>Belen Martin-Urcelay</b><sup>‡</sup>"
+    authors: "Brighton Ancelin<sup>‡</sup>, Yenho Chen<sup>‡</sup>, Alex Saad-Falcon<sup>‡</sup>, Peimeng Guan<sup>‡</sup>, Chiraag Kaushik<sup>‡</sup>, Nakul Singh<sup>‡</sup>, <b>Belén Martín-Urcelay</b><sup>‡</sup>"
     venue: "SampTA '25 [Oral]: Sampling Theory and Applications. July 2025."
     paper_pdf: "/assets/publications/2025_SAMPTA/paper.pdf"
     slides: "/assets/publications/2025_SAMPTA/slides.pdf"
     selected: n
     
   - title: "Online Machine Teaching under Learner's Uncertainty: Gradient Descent Learners of a Quadratic Loss"
-    authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
+    authors: "<b>Belén Martín-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
     venue: "SIMODS '25: SIAM Journal on Mathematics of Data Science. June 2025."
     paper_pdf: "https://epubs.siam.org/eprint/MT9BW9S4MWHWVVBQS6MD/full"
     code: "https://github.com/BelenMU/SMTL"
     selected: y
 
   - title: "Enhancing Human-in-the-Loop Learning for Binary Sentiment Word Classification"
-    authors: "<b>Belen Martin-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
+    authors: "<b>Belén Martín-Urcelay</b>, Christopher J. Rozell, Matthieu R. Bloch"
     venue: "CDC '24: Conference on Decision and Control. December 2024."
     paper_pdf: "/assets/publications/2024_CDC/paper.pdf"
     code: "https://github.com/BelenMU/HiTL-SentimentClassify"
@@ -37,14 +37,14 @@ papers:
     selected: n
 
   - title: "Reinforcement Learning from Human Text Feedback: Learning a Reward Model from Human Text Input."
-    authors: "<b>Belen Martin-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
+    authors: "<b>Belén Martín-Urcelay</b>, Andreas Krause, Giorgia Ramponi"
     venue: "ICML '24 Workshop on Models of Human Feedback for AI Alignment. July 2024."
     paper_pdf: "/assets/publications/2024_ICLR_Workshop/paper.pdf"
     poster: "/assets/publications/2024_ICLR_Workshop/poster.pdf"
     selected: n
 
   - title: "Temperature-Dependent I/Q Imbalance Compensation in Ultra-Wideband Millimeter-Wave Multi-Gigabit Transmitters"
-    authors: "Ainhoa Rezola, Juan F. Sevillan, David del Río, <b>Belen Martin-Urcelay</b>, Iñaki Gurutzeaga, Igone Vélez, Roc Berenguer"
+    authors: "Ainhoa Rezola, Juan F. Sevillan, David del Río, <b>Belén Martín-Urcelay</b>, Iñaki Gurutzeaga, Igone Vélez, Roc Berenguer"
     venue: "IEEE Transactions on Microwave Theory and Techniques. January 2020."
     paper_pdf: "/assets/publications/2020_IEEE/paper.pdf"
     selected: n
