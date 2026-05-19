@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Preference Instability in Reward Models: Detection and Mitigation via Sparse Autoencoders"
+    authors: "Shunchang Liu, Xin Chen, <b>Belén Martín-Urcelay</b>, Francesco Croce"
+    venue: "Under review. Submitted May 2026."
+    paper_pdf: "/assets/publications/2026_UnderReview_ETH/paper.pdf"
+    code: "https://github.com/shunchang-liu/pisa"
+    selected: n
+    
   - title: "Beyond Labels: Information-Efficient Human-in-the-Loop Learning using Ranking and Selection Queries"
     authors: "<b>Belén Martín-Urcelay</b>, Yoonsang Lee, Matthieu R. Bloch, Christopher J. Rozell"
     venue: "Under review. Submitted February 2026."
