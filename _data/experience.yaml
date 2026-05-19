@@ -1,5 +1,11 @@
 experiences:
   
+- place: "Hippo Harvest"
+  time: "Summer 2026"
+  title: "Machine Learning Intern"
+  subtitle: "AI for greenhouse optimization"
+  category: "work"
+  
 - place: "Georgia Tech."
   time: "2022 - 2026"
   title: "Ph.D. Student"
@@ -33,7 +39,7 @@ experiences:
 - place: "Developair"
   time: "Jul 2019 - Jan 2020"
   title: "Software Developer"
-  subtitle: "Worked on automatic simulation parameter adjustment tools"
+  subtitle: "Automatic simulation parameter adjustment tools"
   category: "work"
 
 - place: "Fraunhofer IIS"
@@ -41,11 +47,4 @@ experiences:
   title: "Research Assistant"
   subtitle: "Audio Department"
   category: "work"
-
-- place: "Ceit-IK4"
-  time: "Jan-Jul 2018"
-  title: "Bachelor Thesis"
-  subtitle: "Telecommunication Department"
-  category: "school"
-
 
