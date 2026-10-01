@@ -1,5 +1,11 @@
 experiences:
   
+- place: "University of Stuttgart"
+  time: "2026 - Present"
+  title: "Humboldt Postdoctoral Fellow"
+  subtitle: "Advisor: Andreas Bulling"
+  category: "school"
+  
 - place: "Hippo Harvest"
   time: "Summer 2026"
   title: "Machine Learning Intern"
